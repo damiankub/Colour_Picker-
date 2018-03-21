@@ -1,0 +1,26 @@
+.red {
+	background-color: red;
+	line-height: 40px;
+	border: 1px solid;
+}
+.green {
+	background-color: green;
+	line-height: 40px;
+	border: 1px solid;
+}
+
+.blue {
+	background-color: blue;
+	line-height: 40px;
+	border: 1px solid;
+}
+.opacity {
+	line-height: 40px;
+	border: 1px solid;
+}
+.resultColor {
+	background-color: black;
+	height: 80px;
+	border: 1px solid;
+	margin-top: 30px;
+}
